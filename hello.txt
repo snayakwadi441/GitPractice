@@ -1,1 +1,2 @@
  Welcome to Git Practice
+ This is line 2 in same file
